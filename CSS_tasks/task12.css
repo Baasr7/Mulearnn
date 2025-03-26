@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  font-size: 20px;
+  flex-wrap: wrap;
+  width: 200  0px;
+  height: 60px;
+  margin: 10px;
+  float: left;
+}
+
+.item{
+  height: 50px;
+  width: 200px;
+  margin: 10px;
+  font-weight: bold;
+}
