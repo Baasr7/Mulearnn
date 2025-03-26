@@ -1,0 +1,13 @@
+p.round{
+  border: 2px solid red;
+  border-radius: 12px;
+  padding: 5px;
+} 
+p.oval{
+    border: 2px solid red;
+    padding: 5px;
+    border-top-left-radius: 12px ;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
