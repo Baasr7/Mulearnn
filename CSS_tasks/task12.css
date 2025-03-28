@@ -1,9 +1,10 @@
 .container{
   display: flex;
+  justify-content: space-between;
   font-size: 20px;
   flex-wrap: wrap;
-  width: 200  0px;
-  height: 61px;
+  width: 800px;
+  height: 400px;
   margin: 10px;
   float: left;
 }
